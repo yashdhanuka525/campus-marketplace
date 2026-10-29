@@ -111,13 +111,6 @@ campus-marketplace/
 └── DATABASE_EXPLAINED.md
 ```
 
-## Who to say did what (matches the report's work breakdown)
-
-- **Yash** -- `db/02_procedures.sql` (reserve/deliver/refund), `app/routers/escrow.py`
-- **Vansh** -- `db/01_schema.sql` items/categories, `app/routers/items.py`, `admin.py`
-- **Antriksh** -- wallets/ledger/reviews tables, `app/routers/wallet.py`, `reviews.py`
-
-
 
 
 Daily Startup Routine (3 Steps)
